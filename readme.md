@@ -22,7 +22,7 @@ NB. ther is no gas limit param set up yet, will update later.
 <br>
 **Methods should be updated:**
 1. `number_of_tokens` in line 44
-2. `network = 'mainnet' if you are minting an NFT other than eth
+2. `network = 'mainnet'` if you are minting an NFT other than eth
 3. `mint = nft_mint.functions.giveAway` in line 28, function `giveaway` should be updated, find the right function from their contract, contract->read_contract->mint***
 4. `price = nft_mint.functions.MBAIPrice().call()` in line 23, updated `MBAIprice`, find the price of each token on contract->read_contract->***Price
 
