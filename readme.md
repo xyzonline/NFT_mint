@@ -1,8 +1,5 @@
 ## An NFT mint script by interacting with smart contract
 ### The script was originally made for minting a free mint project named MoonBirdAI, in which some config info and methods are made to be compatible with this project, feel free to modify these methods to be compatible with other project, I will point them out in the following page where you should modify to make it work for your project.
-<br>
-<br>
-
 ---
 ### Config.py
 
