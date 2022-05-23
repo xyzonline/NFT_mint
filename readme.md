@@ -4,17 +4,15 @@
 ### Config.py
 
 **Everything in this file should be modified**
+
 <br>
 a. Get your INFURA_SECRET KEY in https://infura.io by creating a new project
 <br>
 b. Private key in your metamask wallet, DONT EVER SHARE THIS WITH ANYONE. (*If you wanna give up all your money, just transfer them to me, my wallet address is 0xaA05570cA9d4b64161c37F958bf8A1E0977B1BB0, much appreciated!*)
 <br>
-<br>
 c. WALLET ADDRESS, copy it from your metamask wallet
 <br>
-<br>
 d. Contract address, it could normally be found in project website
-<br>
 <br>
 e. NFT_abi, could be found in etherscan.contract -> code -> Contract ABI -> COPY/PASTE
 <br>
