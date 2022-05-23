@@ -16,8 +16,8 @@ d. Contract address, it could normally be found in project website
 <br>
 e. NFT_abi, could be found in etherscan.contract -> code -> Contract ABI -> COPY/PASTE
 <br>
-<br>
 ---
+
 ### NFT_mint.py
 
 NB. ther is no gas limit param set up yet, will update later.
